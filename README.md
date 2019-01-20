@@ -77,6 +77,7 @@ HV........3
 Vampire at: 3 1
 Human at: 3 0
 Enter command (0 to quit): 1
+
 You bit the human!
 
 Each Creature has a position indicated by its i and j private instance variables, a pic variable which contains the character to be displayed, and a boolean canMove variable, which indicates whether the Creature is allowed to move. Follow the steps to add to the program.
